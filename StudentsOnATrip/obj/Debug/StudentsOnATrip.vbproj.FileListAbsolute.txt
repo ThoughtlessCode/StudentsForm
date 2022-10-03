@@ -1,0 +1,12 @@
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\bin\Debug\StudentsOnATrip.exe.config
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\bin\Debug\StudentsOnATrip.exe
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\bin\Debug\StudentsOnATrip.pdb
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\bin\Debug\StudentsOnATrip.xml
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.vbproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.Form1.resources
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.Resources.resources
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.vbproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.vbproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.exe
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.xml
+C:\Users\joshu\OneDrive\Desktop\College\Year 1\CompSci\Programming\StudentsOnATrip\obj\Debug\StudentsOnATrip.pdb
